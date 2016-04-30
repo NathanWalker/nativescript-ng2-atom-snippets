@@ -1,5 +1,3 @@
-# nativescript-ng2-atom-snippets package - [Link] (https://atom.io/packages/nativescript-ng2-atom-snippets)
-
 ## NativeScript + Angular 2 Snippets for Atom ##
 
 Snippets for all NativeScript UI components and some frequently used attributes specifically for use with [nativescript-angular](https://github.com/NativeScript/nativescript-angular).
