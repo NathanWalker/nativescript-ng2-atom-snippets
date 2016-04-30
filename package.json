@@ -1,0 +1,18 @@
+{
+  "name": "nativescript-ng2-atom-snippets",
+  "version": "1.0.0",
+  "description": "NativeScript + Angular 2 Snippets.",
+  "keywords": [
+    "Angular2",
+    "TypeScript",
+    "NativeScript",
+    "Telerik",
+    "ng2"
+  ],
+  "repository": "https://github.com/NathanWalker/nativescript-ng2-atom-snippets.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
