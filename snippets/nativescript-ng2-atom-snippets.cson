@@ -53,7 +53,7 @@
         </ActionItem>
         <ActionItem (tap)="$2" ios.position="right">
           <Button class="" text="Right"></Button>
-        </ActionItem>"
+        </ActionItem>
       </ActionBar>
     """
 
@@ -513,7 +513,7 @@
         </ActionItem>
         <ActionItem (tap)="$2" ios.position="right">
           <Button class="" text="Right"></Button>
-        </ActionItem>"
+        </ActionItem>
       </ActionBar>
     """
 
