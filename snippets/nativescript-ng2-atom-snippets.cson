@@ -9,7 +9,7 @@
   '{N} Component with template':
     'prefix': 'nscomponent_template'
     'body': """
-      import {Component} from 'angular2/core';
+      import {Component} from '@angular/core';
 
       @Component({
         selector: '${1:selector}',
@@ -30,7 +30,7 @@
   '{N} Component with templateUrl':
     'prefix': 'nscomponent_templateUrl'
     'body': """
-      import {Component} from 'angular2/core';
+      import {Component} from '@angular/core';
 
       @Component({
         selector: '${1:selector}',
@@ -285,7 +285,7 @@
     "prefix": "nslistview"
     "body": """
       <ListView [items]="source" (loaded)="onLoaded($event)" (itemLoading)="onItemLoading($event)" (itemTap)="onItemTap($event)">
-          <template #item="item" #odd="odd" #even="even">
+          <template let-item="item" let-odd="odd" let-even="even">
               $1
           </template>
       </ListView>
