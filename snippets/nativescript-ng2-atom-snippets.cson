@@ -452,7 +452,7 @@
     "prefix": "tap"
     "body": '(tap)="$1"$2'
 
-	"{N} Text Wrap Attribute":
+  "{N} Text Wrap Attribute":
     "prefix": "wrap"
     "body": 'textWrap="true"$2'
 
@@ -912,7 +912,7 @@
     "prefix": "tap"
     "body": '(tap)="$1"$2'
 
-	"{N} Text Wrap Attribute":
+  "{N} Text Wrap Attribute":
     "prefix": "wrap"
     "body": 'textWrap="true"$2'
 
